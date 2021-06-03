@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Dialogue between Mr. Canterbury, a Church of England-man, and Mr. Scott a dissenter to which is added a letter by way of a postscript, clearing the objections against the cross in baptism and episcopal government.</title>
+         </titleStmt>
+         <extent>Approx. 46 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A35883</idno><idno type="EEBO-CITATION">8712936</idno>
+  <idno type="VID">41633</idno>
+  <idno type="EEBO-PROQUEST">2264210294</idno>
+  
+            <idno type="STC">Wing D1317</idno>
+            <idno type="STC">ESTC R24994</idno>
+            <idno type="OCLC">08712936</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A35883)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 41633)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1256:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Dialogue between Mr. Canterbury, a Church of England-man, and Mr. Scott a dissenter to which is added a letter by way of a postscript, clearing the objections against the cross in baptism and episcopal government.</title>
+               </titleStmt>
+               <extent>[2], 24 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1698.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Church of England --  Apologetic works.</term>
+               <term type="topical_term">Dissenters, Religious --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2015-01 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2015-01 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:41633:1"/>
+            <pb facs="tcp:41633:1"/>
+            <p>A DIALOGUE Between Mr. <hi>CANTERBƲRY</hi> A Church of <hi>England</hi>-Man, AND Mr. <hi>SCOTT</hi> A DISSENTER.</p>
+            <p>To which is added <hi>A Letter by Way of a Postscript,</hi> Clearing the Objections against the CROSS in <hi>Baptism,</hi> and EPISCOPAL GOVERNMENT.</p>
+            <p>Printed in the Year, 1698.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:41633:2"/>
+            <pb facs="tcp:41633:2"/>
+            <head>To the most Moderate of the DISSENTERS.</head>
+            <opener>
+               <salute>Dear Countrymen and Friends,</salute>
+            </opener>
+            <p>SOME of you, I believe, out of very good Design to save your own Souls, have deserted our Church. And truly, if there had been any real ground for the mighty Noise that of late has been made against our <hi>Liturgy,</hi> and <hi>Church-Government,</hi> I should not have troubled you with this Dialogue: No reasonable Man can blame you for avoiding Things which are really Superstitious, or making your Salvation as safe as may be; but wise Men should not easily be carried away with empty Words, which are only made use of by others to weaken the <hi>Protestant Interest.</hi> I have read over and over our Controversie, and it is most certain that Lay-men can have no Concernment in it, but only when they receive the Sacrament of the Supper; were you commanded to fall down upon your Knees at the Elevation of the Host, according to the Practice of the Church of <hi>Rome,</hi> you might have Pretence to Charge us with Idolatry; but our Church declares against a Substantial Change in the Elements: If it is our Duty to pray to God on our Knees on stated
+<pb facs="tcp:41633:3"/>Hours, how can it be criminal to give God the like Ceremony, when we are at the most solemn Ordinance in all Religion? I have in these Papers avoided Prolixity, and all Rhetorical and Affected Expressi<g ref="char:EOLhyphen"/>ons, that you may in a little Time, and with Ease understand your Duty. If they will rectifie your Mistakes, which (though I believe contrary to your Designs) are very destructive to the Happiness of the Church the Peace of the Nation, and the Glory of God, I shall be fully satisfied; and that little Time that you will spend in the reading of them, will to be very good Purpose.</p>
+            <p>You must own that Divisions are very warmly spoke against in the New Testament, which Consideration may justifie me for Writing, and oblige you to under<g ref="char:EOLhyphen"/>stand perfectly what Grounds you have to separate from our Establish'd Church.</p>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb n="1" facs="tcp:41633:3"/>
+            <head>A DIALOGUE Between Mr. <hi>CANTERBƲRY</hi> AND Mr. <hi>SCOTT.</hi>
+            </head>
+            <sp>
+               <speaker>Mr. <hi>Cant.</hi>
+               </speaker>
+               <p>NEW Neighbour, you are extreamly wel<g ref="char:EOLhyphen"/>come to our Parts; I propose a World of Happiness to my self by our mutual Friendship.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Scott.</hi>
+               </speaker>
+               <p>I thank you, Sir, for your kind Wishes; I con<g ref="char:EOLhyphen"/>fess, I have sufficiently tasted of your generous Disposition while we stay'd together under the Tuition of that good Man Mr. <hi>B.</hi> a Person of primitive Simplicity and Ho<g ref="char:EOLhyphen"/>liness.</p>
+            </sp>
+            <sp>
+               <speaker>Cant.</speaker>
+               <p>I love to speak as favourably as I can of the Dead: if we make some allowances for the time in which he lived, he was a very good sort of Man. But pray walk to this Room, that we may be out of all Disturbance.</p>
+            </sp>
+            <sp>
+               <pb n="2" facs="tcp:41633:4"/>
+               <speaker>Scott.</speaker>
+               <p>I shall be directed by you; you are extreamly neat in your House: pray whose Picture is that that lies in the middle? methinks, Courage and Parts may be read in that Face; upon my Word, it promises well.</p>
+            </sp>
+            <sp>
+               <speaker>Cant.</speaker>
+               <p>You are not at all mistaken in your Conjectures: but the Effigies is nothing to the Original; it is the Picture of the Good, but Unhappy, Archbishop <hi>LAƲD.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Scott.</speaker>
+               <p>Strange! how we Mortals are deceived? and is it so? let us talk no more of hm; it had been well for <hi>England</hi> if he had been a Man of such moderate, and peaceable Prin<g ref="char:EOLhyphen"/>ciples as our old Master <hi>B.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Cant.</speaker>
+               <p>I do not love to make Comparisons, and especially between great and ordinary Persons; and yet I cannot be<g ref="char:EOLhyphen"/>lieve that any <hi>English</hi> Man ever intended nobler Projects for the Benefit of Religion, the Reputation and Honour of the Church, than that unfortunate Gentleman: Men may make other Pretences, but after all, nothing but his great Dili<g ref="char:EOLhyphen"/>gence and Care for a competent Maintenance for the Inferiour Clergy, and his unwearied Zeal for Order and Unity in the Church, brought him to the Block.</p>
+            </sp>
+            <sp>
+               <speaker>Scott.</speaker>
+               <p>Certainly, Sir, you are widely mistaken about the Bishop.</p>
+            </sp>
+            <sp>
+               <speaker>Cant.</speaker>
+               <p>Not at all; and if you did but impartially peruse his own excellent Apology, published by Mr. <hi>Wharton,</hi> you would quickly have a just Indignation against those Men who robbed him of his Life and Reputation too.</p>
+            </sp>
+            <sp>
+               <speaker>Scott.</speaker>
+               <p>He was certainly a very violent and furious Man against the Godly, who had more Religion in them, than to submit to his Fancies and superstitious Inventions; and to our Misery, he has left too many Sons like himself, who are the Troublers of <hi>Israel:</hi> if their Wings be not clipt, this Na<g ref="char:EOLhyphen"/>tion will never be happy.</p>
+            </sp>
+            <sp>
+               <speaker>Cant.</speaker>
+               <p>I find our conformable Clergy are out of your Books; I must declare, that I cannot subscribe to the Judgment you
+<pb n="3" facs="tcp:41633:4"/>pass on our Clergy: for as far as I can observe, they are qui<g ref="char:EOLhyphen"/>et and peaceable Men; Persons of Loyalty, Learning, and good Temper; and they have with great Success vanquished the Champions of <hi>Rome,</hi> and are not in the least afraid to encounter the <hi>Goliah's</hi> of <hi>Geneva,</hi> who with equal Zeal, con<g ref="char:EOLhyphen"/>trive the Ruine of our Church: I speak to a wise Man; is it not an odd Course to form a Character of any Man, from the Account only given him by his Enemies? you may lay down this for a Maxim, that they are generally mistaken, who ground all their Censures upon the Libels of a contrary Faction, and the Authority of professed Adversaries: if these men you talk of, have been guilty of some Faults, (for none are altogether perfect in this World) where is the Prudence, Honesty, or Virtue in making Satyrs against them in all Company? Religion suffers by our Reflections upon the Men of the sacred Profession, and so Atheism and Profane<g ref="char:EOLhyphen"/>ness get Ground, and Wickedness thrives and prospers: be<g ref="char:EOLhyphen"/>lieve me, if we do not reverence the Ministers of the Gospel, and maintain their Authority, Christianity will be miserably exposed to the wanton Humours of Infidels and profane Wits.</p>
+            </sp>
+            <sp>
+               <speaker>Scott.</speaker>
+               <p>Pray avoid all Heats and Passion; Moderation is a thing that I love with all my Soul, yea, I could pawn all that is dear unto me, only to establish that excellent Temper, throughout the Nation.</p>
+            </sp>
+            <sp>
+               <speaker>Cant.</speaker>
+               <p>Very good Sir, but are you for a Dish of Tea this Morning? it is what I love.</p>
+            </sp>
+            <sp>
+               <speaker>Scott.</speaker>
+               <p>With all my heart, 'tis a very innocent thing, and I am better pleas'd with it, because it does not ferment my Blood and make me hot, I am always for moderate things, as Diet, Recreation, and a moderate Clergy too.</p>
+            </sp>
+            <sp>
+               <speaker>Cant.</speaker>
+               <p>And why not for a very moderate and slender Encou<g ref="char:EOLhyphen"/>ragement to the Gentlemen in Black? and upon very good Reasons too, because the Men of that Profession are not to
+<pb n="4" facs="tcp:41633:5"/>mind earthly things, but are to expect a Reward in the other World.</p>
+            </sp>
+            <sp>
+               <speaker>Scott.</speaker>
+               <p>You mistake my meaning upon my word, I was only about to tell you, that I am extremely forry, that most of the Conformable Clergy are so stiff and ceremonious at this time of day, the generality of them, I will not say all, do constantly use the Cross in Baptism, read every Tittle in the Book of Common Prayer, wear the Surplice, even upon Holidays, yea, and to a Man's Astonishment, deliver Sermons for the Lawfulness and Decency of these Things.</p>
+            </sp>
+            <sp>
+               <speaker>Cant.</speaker>
+               <p>A Thing not to be suffered at this Juncture of Af<g ref="char:EOLhyphen"/>fairs: they cannot certainly be guilty of such a high Charge. What, will they still shew their Teeth against the sober Par<g ref="char:EOLhyphen"/>ty? will they never be reconciled to the good old Cause? they must be Men of great Mettle, who dare speak openly against Divisions, or deliver Speeches in Defence of the Church of <hi>England,</hi> as by Law established. I wonder at their Courage for my part, that I do.</p>
+            </sp>
+            <sp>
+               <speaker>Scott.</speaker>
+               <p>You may wonder, but so it is; for I cannot find that the generality of your Church-men are at all disposed to part with their Popish Fopperies, or to express any Wil<g ref="char:EOLhyphen"/>lingness, that Orthodox Ministers should have fuller Liberty to exercise their Gifts. Your <hi>Tantivies</hi> and <hi>Cathedralists</hi> cry up the Common Prayer book, as the Brethren of the Trade did the great <hi>Diana</hi> of the <hi>Ephesians:</hi> and after all, 'tis but a Relick of Popery, and they who use it, have not the Spirit which makes our Addresses acceptable to God.</p>
+            </sp>
+            <sp>
+               <speaker>Cant.</speaker>
+               <p>What greater Liberty would you have for them? what, you would have our Ministers turned out of their Li<g ref="char:EOLhyphen"/>vings to make way for your gifted Teachers? Look you, Sir, I have great Charity for you, and some of your Party; but you speak the very Sense of an Atheist, when you reproach all our Ministers at that high rate, as if Gain was their God<g ref="char:EOLhyphen"/>liness, and all their Zeal proceeded only from temporal In<g ref="char:EOLhyphen"/>terest.
+<pb n="5" facs="tcp:41633:5"/>Believe me, your inconsiderate Censure warms my Blood, and forces me to declare to you, that you have quite forgot your beloved Moderation. What did not Famous <hi>Cranmer, Latymer</hi> and <hi>Ridley</hi> pray with the Spirit do you think, when they have made use of this very Book in all their publick Devotions? was it Humour, or the Spirit of God that induc'd our Reformers to compile it, and to protest against the Innovations of <hi>Rome?</hi> had they the Spirit or not, when they gave their Bodies to be burnt for the primitive Faith? By vilifying the Common Prayer Book, we kick the Ashes of our pious Reformers, and do greatly lessen their Repu<g ref="char:EOLhyphen"/>tation and Excellency. A devout Liturgy, as ours is, stints no Spirit that I know of, unless the Spirit of Rancour, Fa<g ref="char:EOLhyphen"/>ction, Treason and Rebellion: And 'tis too well known how the Lords Anointed in the late times of Confusion, was abu<g ref="char:EOLhyphen"/>sed by the free Exercise of some Mens Parts in their unsan<g ref="char:EOLhyphen"/>ctified Devotions. I remember to have read somewhere of one who drew an Argument for the Excellency of the Christian Religion, from the remarkable Hatred that the Mon<g ref="char:EOLhyphen"/>ster <hi>Nero</hi> bore to it, the Application is very easie: For the <hi>Antitrinitarians, Quakers, Anabaptists, Independants,</hi> ay, and the <hi>Presbiterians,</hi> who are more spruce, neat and rational, than other Separists, do with one Consent conspire the De<g ref="char:EOLhyphen"/>struction of our Publick Liturgy, and it is well known that to re-establish Popery in <hi>England,</hi> Queen <hi>Mary</hi> at her first coming to the Crown, repealed all the Acts of Parliament which were made in favour of the Common Prayer Book.</p>
+            </sp>
+            <sp>
+               <speaker>Scott.</speaker>
+               <p>Indeed you tell me some News which I never heard of before in all my Life.</p>
+            </sp>
+            <sp>
+               <speaker>Cant.</speaker>
+               <p>It may be so, for Men of your Principles are as much led on by an implicite Faith, as the most bigotted <hi>Papists</hi> in the World; you seldom read any Controversial Book that relates to our unhappy Disputes, but what seems to favour your own Tenets; and if I am rightly informed;
+<pb n="6" facs="tcp:41633:6"/>you are wholly guided by the Judgment of your Pastors in the Choice of your Books; if that be the way of it, we can give a very good Reason for your obstinate Aversion to our excellent Constitution. Your Rabbies, I must tell you, are so wise as to think that the Bishop of <hi>Worcester</hi>'s <hi>Ʋnreasonableness of Separation,</hi> and Dr. <hi>Puller</hi>'s Book of the <hi>Moderation of the Courch of</hi> England, would put you to a Nonplus, if carefully read, and then the Goodness of our own Cause and the Weakness of yours, would quickly ap<g ref="char:EOLhyphen"/>pear.</p>
+            </sp>
+            <sp>
+               <speaker>Scott.</speaker>
+               <p>Indeed I blame my self for not reading both Sides; but may be your Churchmens Books are like their Preach<g ref="char:EOLhyphen"/>ing, not at all for Edification.</p>
+            </sp>
+            <sp>
+               <speaker>Cant.</speaker>
+               <p>I must take notice of your great Reflection upon the Learning and Judgment of our Episcopal Divines; and to retort upon you, I am fully perswaded, that there are some among you cried up for Men of extraordinary Gifts, and from whom a wonderful Edification is constantly received, that are no more fit to be Teacher, and Governors in Religion (as one expresses it) than Mountebanks to compose Dispansa<g ref="char:EOLhyphen"/>tories, or to be Presidents of Colleges of Physicians: nor is it any great Wonder, when any Man that has but Confidence, may preach in some of your Congregations. Ordination by Imposition of Hands, attended with Prayer and Fasting (though it be a Ceremony of Divine Institution) is in a manner wholly laid aside by you; yea, and I sind Books too written against the Necessity of it: so that if your Ministers be Men of Ability and Learning (as doubtless some of them are) you are more beholding to the goodness of Fortune, than to your own prudent Caution in looking out Men of honest Report, and sufficient for these Things. I have read a great Number of Books written by all Parties, and I de<g ref="char:EOLhyphen"/>clare without Partiality, that I cannot find such Clearness and Strength of Reasoning, such profound Apologies for our
+<pb n="7" facs="tcp:41633:6"/>holy Faith from any, as from the conformable Clergy. Let the Multitude of Volumes which they have published, clear them from such a base Censure. Indeed did Edification con<g ref="char:EOLhyphen"/>sist in a mournful Tone, in a sad Countenance, in beating the Breast, in extended Arms, or in peculiar and affected Phrases, there might be some Truth in your Pretensions. Things of this Nature may go very far to captivate the Affections of the more unthinking Part of the World; and they that are most skilful at them, may have the Applause and Hums of the Illiterate, who do not at all understand what Improve<g ref="char:EOLhyphen"/>ment, and what Edification means, as to Necessary and Di<g ref="char:EOLhyphen"/>vine Truths.</p>
+            </sp>
+            <sp>
+               <speaker>Scott.</speaker>
+               <p>You surprize me with your Novel Opinion, ay that you do; for several Persons flock to our Meetings only out of a sincere Desire of being better instructed with us, than they can be from your Pulpits.</p>
+            </sp>
+            <sp>
+               <speaker>Cant.</speaker>
+               <p>I know that is an Objection that is frequently in your Mouths; but what Reason can be assigned for it? for in common Conversation the Conformists seem to have as good natural and acquired Parts as any of your Ministers: and if any Divine, Moral, or Philosophical Subject happens to be started, I assure you, they do handle it as handsomly, and as judiciously, (to speak modestly) as any of those whom you so much extol. The Episcopal Divines are as well, if not better furnished with Books than the Disciplinarians. Our Ministers have lived in the Schools of the Prophets (I mean in Universities) many Years; yours only in a pri<g ref="char:EOLhyphen"/>vate School, or it may be from a Trade to the Pulpit. Our Ministers have had the Advantage of hearing many excellent Difcourses preached upon all Subjects before the Universities, and very judicious Lectures in Divinity read in their publick Schools, and in their private Chappels. Who are better qua<g ref="char:EOLhyphen"/>lified do you think to edifie Men?</p>
+            </sp>
+            <sp>
+               <speaker>Scott.</speaker>
+               <p>You offer very fair Things towards my Convicion
+<pb n="8" facs="tcp:41633:7"/>as to this particular Point; though after all, our Men are generally thought to be the best Preachers and Expounders of God's Word.</p>
+            </sp>
+            <sp>
+               <speaker>Cant.</speaker>
+               <p>Offer me nothing without a Reason; do not think to impose upon me with your empty Phrases of gifted Men, and profound Divines; Mens Education, and publick Per<g ref="char:EOLhyphen"/>formances in Print shall weigh more with me I will assure you: I remember that just now you were very hard upon our Ministers for not warping a little more to the Humours of the present Age; you charged upon them too much Stiff<g ref="char:EOLhyphen"/>ness and Resolution to keep Things in <hi>Statu-quo.</hi> But it fre<g ref="char:EOLhyphen"/>quently happens, that some Men are blamed for their Ho<g ref="char:EOLhyphen"/>nesty and Constancy to defend a good Cause: Take it as you please, I would sooner submit to the Judgment of our pre<g ref="char:EOLhyphen"/>sent King, than to yours. And I shall give you his Opinion in his own Words, in his late Injunctions; <hi>We being sensible,</hi> (saith he) <hi>that nothing can more effectually conduce to the Honour and Glory of God, and the Support of the Protestant Religion, than the protecting and maintaining the Church of</hi> England <hi>as by Law established, which we are resolved to do, to the utmost of our Power.</hi> Mark that, will you? what, would you have our Ministers oppose the Judgment of our King, and contradict their own repeated Declarations for the Excellency of our Church, when nothing but the Clamours of our Enemies, who gape after her Revenues, can pretend to blemish her? indeed, were the Terms required by our Church immode<g ref="char:EOLhyphen"/>rate in themselves, I should be the first Man that should plead for Forbearance and Relaxation, and if that was the present Case, no maintain the Church as by Law established, would be a troublesome, and a culpable Zeal in the Clergy. But let Men wrangle to Eternity, they will never be able to prove to the Satisfaction of wise and indifferent Per2ons, that the Church of <hi>England</hi> is guilty of this Charge. Believe me, Mr. <hi>Scott,</hi> the Moderation of our Church is very eminent and
+<pb n="9" facs="tcp:41633:7"/>notorious to all who understand her excellent Constitution. What sober Stranger would not look about him, and stand amaz'd at the mighty Noise that is continually made about two or three Ceremonies, to which no manner of Holiness in the World is attributed? Why should Men take it so ill, that few harmless Laws are made for the Government of the Church? is Uniformity in it self a Snare to Mens Conscien<g ref="char:EOLhyphen"/>ces? and why should Men claim what Liberty they please as to Ceremonies and Church-Discipline, from their Superiours, and yet will heavily yoke their own Congregations with their own private Orders and Decrees, as if they were infallible, or were perfect Lords over other mens Consciences?</p>
+            </sp>
+            <sp>
+               <speaker>Scott.</speaker>
+               <p>What would you have upright Christians do? would you have them conform against their Consciences?</p>
+            </sp>
+            <sp>
+               <speaker>Cant.</speaker>
+               <p>I will tell them what I would have them do. Let them in the Name of God endeavour to inform their Judg<g ref="char:EOLhyphen"/>ments, and understand better the Nature of Sin, which is a Transgression of a Law. Think upon this Apostolical De<g ref="char:EOLhyphen"/>finition, and defend your selves if you can. For what com<g ref="char:EOLhyphen"/>mand of God is directly, or by Consequence violated by your exact Conformity to the Laws of our Church?</p>
+            </sp>
+            <sp>
+               <speaker>Scott.</speaker>
+               <p>I love to be free with you; I have nothing at pre<g ref="char:EOLhyphen"/>sent that I can think upon to weaken your Argument: how<g ref="char:EOLhyphen"/>ever, I will be sure to carry it along with me to my Godly and Learned Pastour, who can effectually answer it, I am confident.</p>
+            </sp>
+            <sp>
+               <speaker>Cant.</speaker>
+               <p>Do it withal my Heart: But, dear Neighbour, I expect a round and a plain Answer from him; and let me tell you, If your Pastour goes about to resolve my Argument in long and dark Speeches, he is certainly puzzled, and can<g ref="char:EOLhyphen"/>not well maintain his own Cause.</p>
+            </sp>
+            <sp>
+               <speaker>Scott.</speaker>
+               <p>I am very well satisfied of his great Abilities and Moderation. I wish that all others were indued with the same Healing Disposition</p>
+            </sp>
+            <sp>
+               <pb n="10" facs="tcp:41633:8"/>
+               <speaker>Cant.</speaker>
+               <p>Moderation is a mighty Word with you I find; cer<g ref="char:EOLhyphen"/>tainly you must needs dream about it an Nights, so great is your Love for it: I believe there is as much commendable Moderation to be seen in the Deportment of our Ministers, as in the Non-Conformists. And before I leave you, I hope to bring you to the same Judgment with my self. Pray is it not common at the general Meetings of your Clergy, to have an Association, or something of that Nature, handed about?</p>
+            </sp>
+            <sp>
+               <speaker>Scott.</speaker>
+               <p>I cannot understand where your Question drives; certainly the Merit of the Cause cannot at all be concerned in giving you Satisfaction in this Matter.</p>
+            </sp>
+            <sp>
+               <speaker>Cant.</speaker>
+               <p>However, oblige for once an old Acquaintance; and though my Question seems to be improper; Friendship, I am satisfied, does study rather to please, and oblige, than to be profound, and critically exact in common Conversation.</p>
+            </sp>
+            <sp>
+               <speaker>Scott.</speaker>
+               <p>Then I will tell you, That I believe it is no unusual Thing to have an Association promoted at such Meetings. I have been at some my self, where such a Thing has happen<g ref="char:EOLhyphen"/>ed, and what Hurt can be in it I pray? for it is only a friend<g ref="char:EOLhyphen"/>ly League, and a Christian Resolution to stand by one ano<g ref="char:EOLhyphen"/>ther, and to do our Endeavour to promote the Glory of God, and to establish his Truth in the World.</p>
+            </sp>
+            <sp>
+               <speaker>Cant.</speaker>
+               <p>A Resolution to stand by one another! Are you ap<g ref="char:EOLhyphen"/>prehensive of a Massacre from us? no Body molests you that I know of: you should have added (which is indeed the real Meaning) that we solemnly protest and resolve never to be Quiet, until our Religion is made the National, and Parlia<g ref="char:EOLhyphen"/>mentary Religion: your Ministers, it seems, shall enter into solemn Leagues and Covenants to destroy our established Church, and shall still be stiled the Moderate, the Healing Men of the Nation. But if our Divines stand up in Defence of our excellent Liturgy, and a few ancient Ceremonies, presently they will be branded with all the ill Characters that a malicious Age can invent. O the Partiality of the
+<pb n="11" facs="tcp:41633:8"/>World! O what an Age is this that we live in! that none shall be reputed Virtuous, but such <hi>who are given to Change;</hi> that none shall be accounted Lovers of their Country, Lo<g ref="char:EOLhyphen"/>vers of their King, but who are notorious Depravers of the Common Prayer Book, and very Inclinable to part with <hi>Di<g ref="char:EOLhyphen"/>ocesan</hi> Episcopacy! But it may be (Mr. <hi>Scott</hi>) by establishing Gods Truth in the World, you mean to take a long Voyage to convert some dark Corner of the World to Christianity: if that is your only Meaning and Design, the Lord prosper you.</p>
+            </sp>
+            <sp>
+               <speaker>Scott.</speaker>
+               <p>What, you are resolved to banter and expose us, are you? you are a merry sort of Man truly; who talks of taking long Voyages (your self only excepted?) we love <hi>England</hi> too well to part with it upon such Uncertainties.</p>
+            </sp>
+            <sp>
+               <speaker>Cant.</speaker>
+               <p>But what can that Expression of establishing Gods Truth in the World mean, if you are not for the <hi>Indies,</hi> or some foreign Plantation to preach our Saviours Religion? at this rate I shall never understand my Mothers Tongue: has not <hi>Joseph</hi> of <hi>Arimathea,</hi> or some other Apostolical Man pre<g ref="char:EOLhyphen"/>vented you from that great Honour of being the first Publish<g ref="char:EOLhyphen"/>ers of Christianity in this Island? or are the Primitive Faith, and our National Religion two different Things? I thought that the Pres by terians did <hi>ex animo</hi> subscribe to the Doctrinal Articles (as they call them) of our Church. I am confident that the Confessions of the Reformed Churches abroad, agree in most Things with ours.</p>
+            </sp>
+            <sp>
+               <speaker>Scott.</speaker>
+               <p>You have run into many Words to little purpose. We do not deny that there is Christianity in <hi>England;</hi> we are only for a purer Reformation, and justly Zealous to have Things reduced to their primitive Model. Episcopacy (as it is established here in <hi>England</hi>) is an intolerable Burden, and certainly it can be no Fault in us to endeavour in a Legal Way, to ease our selves of the Mischiefs it continually exposes us to. Did our Parliament take their Measures from <hi>Scot<g ref="char:EOLhyphen"/>land,</hi>
+                  <pb n="12" facs="tcp:41633:9"/>I believe <hi>England</hi> would be the Glory of the whole Earth: our Heats and Animosities would be totally at an end; Trade would flourish; good Manners and sincere Piety would abound in the Land; in short, the <hi>Millenium</hi> would quickly commence.</p>
+            </sp>
+            <sp>
+               <speaker>Cant.</speaker>
+               <p>Brave Times indeed. Alas! what Unhappiness this is, that our Representatives in the Lower House have not all this Time thought on Ways and Means to make us a most happy People? it is great Pity (me thinks) that some consi<g ref="char:EOLhyphen"/>derable Men do not warmly address the Committee of Reli<g ref="char:EOLhyphen"/>gion in this Matter.</p>
+            </sp>
+            <sp>
+               <speaker>Scott.</speaker>
+               <p>'Tis to no purpose I am fully perswaded; for the Members of the House of Commons are Episcopally inclined, and after an exact Enquiry, I cannot find that one Man of them made a Speech against Deans and Chapters (a good Introduction you know that would have been) but not a Word of this Nature has been offered in the House. When Taxes are such mortifying Things to the Subjects, the Sale of their Estates would have gratified and obliged the Mob; and our Party would thereby be strengthned. I would have them also make some better Provisions, with some Part of that Money, for poor Vicarages.</p>
+            </sp>
+            <sp>
+               <speaker>Cant.</speaker>
+               <p>A notable Way indeed, to make Proselytes with sacri<g ref="char:EOLhyphen"/>legious Presents: What, would you rob <hi>Peter</hi> (to use the old Proverb) to pay <hi>Paul?</hi> what is all the tenderness of your Con<g ref="char:EOLhyphen"/>science come to this at last? at this Rate your loud Zeal for a purer Reformation, was but a long Cloak to hide your Co<g ref="char:EOLhyphen"/>vetousness; truly now you have sufficiently discovered your self. But to your great Comfort (be as zealous as you will at Parliamentary Elections to have Men chosen of your Kid<g ref="char:EOLhyphen"/>ney) you will never compass your ill Designs in this Reign. Our gracious King is Master of more Honour, Policy, and Religion, than to destroy the ancient Constitutions of our Church. Has not he frequently exposed his sacred Person on
+<pb n="13" facs="tcp:41633:9"/>Sea and Land, only to maintain the Protestant Religion, the Liberties and Properties of his People, whether Ecclesiastical or Civil? we have great Reasons to rely upon his Promises which he has frequently made to maintain the Church as it is established amongst us. Therefore pray be not uneasie at the Encouragement that has been charitably given by our Ancestors; and legally settled to maintain the Ambassadours of Christ, and to support the Honour and Reputation of the Clergy. Shall the Reverend and Learned Judges of the Law have eminent Respect? shall they be certain of great Salla<g ref="char:EOLhyphen"/>ries? and shall those of the Sacred Profession, Men of the greatest Learning (and we hope many of them) of singular Piety, be treated at a very low mean rate? why should they be debarr'd of Temporal Dignity, and why should they be only on a Level with the meaner sort of People?</p>
+            </sp>
+            <sp>
+               <speaker>Scott.</speaker>
+               <p>I see you can give a Colour to a Cause: but after all, a great Maintenance makes them Proud, Lazy, and Domineering.</p>
+            </sp>
+            <sp>
+               <speaker>Cant.</speaker>
+               <p>And I am perswaded that a mean Condition, which you would put them in, in more likely to make them Igno<g ref="char:EOLhyphen"/>rant, Sneaking, and Contemptible, and to force them out of their Studies to follow some dishonourable Employment. A strait Fortune is a great Temptation to distract their Minds, (which for the Good of others ought to be kept in a very good Temper) and to corrupt their Morals.</p>
+            </sp>
+            <sp>
+               <speaker>Scott.</speaker>
+               <p>Suppose I should grant you all this, and much more, and that from a large Encouragement they are capable of do<g ref="char:EOLhyphen"/>ing eminent Acts of Charity, and thereby to gain the Affe<g ref="char:EOLhyphen"/>ctions of their Hearers; are we obliged to keep up another sort of Government in the Church, far different from that which our Saviour did appoint? must the Divine Equality of Church-men be laid aside, and Superiority (the Invention of Men) be put in its room?</p>
+            </sp>
+            <sp>
+               <pb n="14" facs="tcp:41633:10"/>
+               <speaker>Cant.</speaker>
+               <p>I perfectly understand you: Episcopacy (as held here) has been so clearly made out, and defended by Learned Men of our own Nation, that I wonder how it can be a Con<g ref="char:EOLhyphen"/>troversie any longer among us. 'Tis most certain, That the Apostles were of a higher Order in the Church than the Seventy, who had full Power given them by our Saviour to Preach the Gospel; and yet the Apostles advanced <hi>Matthias</hi> (one of the Seventy) to the Honour of an Apostleship, into the Room of <hi>Judas</hi> that fell. And how this Superiority should cease without a Divine Repeal, is a Thing not easily to be ac<g ref="char:EOLhyphen"/>counted for; it is certain that the Apostles had the Care of many Churches; as it is very evident from 2 <hi>Cor.</hi> 11.28. <hi>Besides those things which are without, that which cometh upon me daily, the care of all the Churches.</hi> And as the Apostles with<g ref="char:EOLhyphen"/>drew, so Bishops came in their Room to govern the Church, and to ordain Presbyters in every City, <hi>Tit.</hi> 1.5. If <hi>Timothy</hi> was no more than a common Presbyter, with what Propriety of Speech can it be said, that he had Authority and Juris<g ref="char:EOLhyphen"/>diction over other Presbyters; to receive Accusations, exa<g ref="char:EOLhyphen"/>mine Witnesses, and pass Censures upon them? if People were of a peaceable Disposition, they would never disturb the Peace of the Church without evident Proofs that they were in the right, which I am certain they have not: I will give them the Sense and Practise of the Church in the Words of St. <hi>Jerom</hi> in his Epistle to <hi>Euagrius, Nam, &amp; Alexandriae a Marco Evangelista usque ad Heraclam &amp; Dio<g ref="char:EOLhyphen"/>nysium Episcopos, Presbyteri semper unum ex se electum in ex<g ref="char:EOLhyphen"/>celsiori gradu collocatum Episcopum nominabant</hi> Let their great Advocate (I say) St. <hi>Jerom</hi> (whom they frequently quote upon this Occasion) decide the Controversie. If a Bishop and a Presbyter do not differ, what means this <hi>excelsior gradus,</hi> this higher Degree? and was this Superiority practiced at <hi>A'exandria</hi> from <hi>Mark</hi> the Evangelist; how can it then be a Thing of so late Invention, as is pretended by our Adversa<g ref="char:EOLhyphen"/>ries?
+<pb n="15" facs="tcp:41633:10"/>But suppose this Superiority be not of Divine Institu<g ref="char:EOLhyphen"/>tion, as certainly it is; pray wherein is a Lay-man concerned? or his Salvation endangered by it? must he quit the Church, because his Minister was ordained by a Bishop, and yet not without the Assistance of Three or Four grave Presbyters? can't the Prayers of the Bishop be as effectual at the Confir<g ref="char:EOLhyphen"/>mation of my Child, as the Prayers of a private Minister? or can't my Child as well acknowledge the Obligation of his Baptismal Vow to the Bishop, as to a Superintendent, or a Moderator of a Class? What can a Lay man pretend to in this Matter? or how can he be grieved by Diocesan Episcopacy? I must declare ingenuously for my Part, I wonder how any Minister can Scruple the Oath of Canonical Obedience to his Diocesan <hi>in omnibus licitis &amp; honestis,</hi> as long as the Law of the Land requires it: for that Man is my Superiour, (and by a sort of Divine Right too) who is made so by my King ac<g ref="char:EOLhyphen"/>cording to Law, if such a Superiority does not evidently con<g ref="char:EOLhyphen"/>tradict some Command of God. I shall give you the Judg<g ref="char:EOLhyphen"/>ment and Advice of the old and pious Mr. <hi>Dod,</hi> as I find it in his own Life, quoted out of Mr. <hi>Fuller. He used</hi> (says my Author) <hi>to retrench some hot Spirits, when inveighing against Bishops, telling them how God under that Government had given a marvellous Increase to the Gospel, and that godly Men might comfortably comport therewith, under which, Learning and Religi<g ref="char:EOLhyphen"/>on had so manifest an Improvement.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Scott.</speaker>
+               <p>But the Case is different now. We may separate from them by Law: we have Liberty, and shall we not use it?</p>
+            </sp>
+            <sp>
+               <speaker>Cant.</speaker>
+               <p>Indeed your Toleration does free you from the Pe<g ref="char:EOLhyphen"/>nalty of the Law; but can never exempt you from your Obe<g ref="char:EOLhyphen"/>dience to those who have the Rule over you. You ought in Conscience to keep the Unity of the Church as far as in you lies; and to go as far as possible, to make up our unhap<g ref="char:EOLhyphen"/>py Breaches, which obstruct and hinder the Progress of the Gospel. When the Heathens made this Observation upon
+<pb n="16" facs="tcp:41633:11"/>the Behaviour and Deportment of the Primitive Christians, <hi>See how the Christians love one another!</hi> then it was that Reli<g ref="char:EOLhyphen"/>ligion got Ground, and the Power of Satan decreased. But as long as men take a quite different Course, and do not strive to worship God with one Heart, and with one Mouth, Things will never go well in the Church, Piety will be almost ex<g ref="char:EOLhyphen"/>tinguisht out of the World; Profaness will spread it self Far and Wide, and scarcely will the Son of Righteousness find Faith upon Earth, when he comes to Judge the world, if our Divisions go on, and Altar set up against Altar.</p>
+            </sp>
+            <sp>
+               <speaker>Scott.</speaker>
+               <p>This a great Unhappiness, that we are under a Ne<g ref="char:EOLhyphen"/>cessity to divide from the Church by reason of its Corrupti<g ref="char:EOLhyphen"/>ons.</p>
+            </sp>
+            <sp>
+               <speaker>Cant.</speaker>
+               <p>What, under a Necessity, when even your voluntary Subscriptions are such good Testimonies against you? if that is Necessity, upon my Word tis a very odd one. I have heard some of your Party boast very much, that they are great<g ref="char:EOLhyphen"/>er Sticklers for the abovementioned Articles than the Con<g ref="char:EOLhyphen"/>formable Clergy: why should you therefore talk of a Ne<g ref="char:EOLhyphen"/>cessity? tis certain that Corruption only in Doctrine can war<g ref="char:EOLhyphen"/>rant a Separation.</p>
+            </sp>
+            <sp>
+               <speaker>Scott.</speaker>
+               <p>What is that, let me hear it over again? will not personal, and moral Faults justifie a Separation?</p>
+            </sp>
+            <sp>
+               <speaker>Cant.</speaker>
+               <p>Not at all; and I will give you my Reason for it in few Words. The <hi>Scribes</hi> and <hi>Pharisees</hi> were so corrupt in their Morals, and so desperately Wicked, that our Saviour frequently denounced a Wo against them. The <hi>Temple</hi> the <hi>House of Prayer,</hi> was become <hi>a Den of Thieves.</hi> And things of humane Invention were introduced by them into the Wor<g ref="char:EOLhyphen"/>ship of God: but notwithstanding all this, the meek Jesus held constant Communion with the Jews in the publick Exercise of their Religion; how frequently do we hear of him at the Temple and Synagogues? St. <hi>Luke</hi> is very plain in the Matter, when he says that <hi>(As his custom was) he went to the Synagogue
+<pb n="17" facs="tcp:41633:11"/>on the Sabbath-day, and stood up for to read;</hi> not to cross the Orders and Constitutions of the Assemblies, but to joyn with them in the Worship of God, in a peaceable and divine Man<g ref="char:EOLhyphen"/>ner. Christ was ready on all Occasions to comply with his Country-men in Things indifferent, <hi>lest we give them Offence,</hi> to use his own Phrase; yea, he was such an exact Conformist, that he would by no means have his extraordinary Cures damnifie the Priests in their customary Dues. <hi>Matth.</hi> 8.4. And to give you the Words of Dr. <hi>Lightfoot,</hi> a Person of great Moderation; <hi>Christ's own Precept speaks not only his own Practice, but even his own Mind and Sense,</hi> and he would never go contrary to that, to which he exhorted others. <hi>Matth.</hi> 23.1. <hi>The Scribes and Pharisees sit in</hi> Moses<hi>'s chair;</hi> they are the chief Magistrates, and sit in the Legislative-Chair, <hi>there<g ref="char:EOLhyphen"/>fore whatsoever they command you, in things not sinful, do.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Scott.</speaker>
+               <p>I shall seriously consider of this our friendly Debate. I am very well pleased with this short Conference we have had.</p>
+            </sp>
+            <sp>
+               <speaker>Cant.</speaker>
+               <p>I am glad that we can part so well, and that we have not broke out into extravagant Passion. I am very consi<g ref="char:EOLhyphen"/>dent, that none ought to leave the Church, either for perso<g ref="char:EOLhyphen"/>nal Miscarriages, or for things which seem inconveient. And let me advise you to imitate Christ Jesus the best Pat<g ref="char:EOLhyphen"/>tern of Love and Communion.</p>
+            </sp>
+            <sp>
+               <speaker>Scott.</speaker>
+               <p>I shall endeavour to tread in his Steps.</p>
+            </sp>
+            <sp>
+               <speaker>Cant.</speaker>
+               <p>If you are going, farewel, and the Lord preserve you, and every honest Man in the Communion of the Church. I hope to see you next <hi>Sunday</hi> in our Parish-Church.</p>
+            </sp>
+            <sp>
+               <speaker>Scott.</speaker>
+               <p>I believe you may, dear Neighbour.</p>
+            </sp>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:41633:12"/>
+            <pb n="19" facs="tcp:41633:12"/>
+            <head>A LETTER to a FRIEND by Way of a POSTSCRIPT.</head>
+            <opener>
+               <salute>Dear SIR,</salute>
+            </opener>
+            <p>I Am extreamly sorry for the Account I lately received from you, of your Inclinations and Designs to leave our Church, unless I could give a full and a clear Answer to your Objections, which you conceive to be strong; did I indeed bear to you the Relation of a lawful Ministers, and under that Notion did Peremptorily decline your Proposal, you might have a sort of Pretence to justifie your Separation. But in my Opinion, you express your self very odly and rashly, in saying you will forsake the Church of <hi>England,</hi> unless a private and an ordinary Man can, and is disposed to confute your Objections which are groundless. All Men have not Leisure and Tem<g ref="char:EOLhyphen"/>per to dispute; nor does their Genius lead them that Way: you are greatly mistaken if you think that the Goodness of our Cause does depend up<g ref="char:EOLhyphen"/>on the Ability of one or two Ministers. Repair
+<pb n="20" facs="tcp:41633:13"/>to our eminent Bishops and Doctors; or if you like not this Advice, peruse Seriously, and judge Impartially their admirable Writings, before you condemn our ancient Constitution, before you leave our Parochial Churches. Our Parish Mi<g ref="char:EOLhyphen"/>nisters have better Things to mind, than the Re<g ref="char:EOLhyphen"/>putation of being quick Disputants about Cere<g ref="char:EOLhyphen"/>monies. They have enough to do to Compose Weekly Sermons, to Catechize the Youth, to Visit the Sick, to make up Differences among their Neighbours, and to Administer the Blessed Sacraments.</p>
+            <p>But however, to saysomething to your Scru<g ref="char:EOLhyphen"/>ples, which will (it may be) draw you to a dan<g ref="char:EOLhyphen"/>gerous Schism, I shall take Notice of your first Objection frequently made by others, and as frequently answered, <hi>About the Sign of the Cross in Baptism.</hi> Did I believe you would be at the Pains to read other Learned Pieces, which have largely treated about that ancient Ceremony, I would on<g ref="char:EOLhyphen"/>ly refer you to them; and I am certain, my Perfor<g ref="char:EOLhyphen"/>mance will be far short of theirs: It is very evi<g ref="char:EOLhyphen"/>dent, that the Primitive Christians upon all Solemn Occasions, were wont <hi>Frontem Signaculo terere,</hi> to make a Sign of the Cross upon their Foreheads; not that they did this by Vertue of any Divine Precept, but to intimate by this laudable Custom, and decent Ceremony, that they were not asha<g ref="char:EOLhyphen"/>med
+<pb n="21" facs="tcp:41633:13"/>of the Cross of Christ, and a Crucified Sa<g ref="char:EOLhyphen"/>viour. They did triumph and glory in the Sym<g ref="char:EOLhyphen"/>bolical Remembrance of their Masters Death. And this Ceremony was constantly observed in the time of St. <hi>Basil, Tertullian,</hi> and St. <hi>Cyprian,</hi> who all lived before Popery was ever heard of in the World, so that the Use of it, as it is now among us, has not the least Colour of a Papistical Inno<g ref="char:EOLhyphen"/>vation. And truly those Men who call it Super<g ref="char:EOLhyphen"/>stition and Popery, do greatly impose upon, and abuse the more ignorant part of the World. When do our Ministers breathe Cross-ways? when do they pretend, as the <hi>Romanists</hi> do, to convey by it to the Child any Spiritual Grace? we ac<g ref="char:EOLhyphen"/>knowledge and confess the Baptism full and per<g ref="char:EOLhyphen"/>fect, before the Ceremony of the Cross is obser<g ref="char:EOLhyphen"/>ved; and the Form of Private Baptism, where no mention of the Cross is made, puts the matter, one would think, out of all Dispute. The Infant is not conscious of what is done upon his Fore<g ref="char:EOLhyphen"/>head, and if he was, the Sign can be no Crime in him, no Sin in his Parents, for permitting the Minister to discharge his Duty as the Rubrick prescribes; unless they can prove that to obey those that have the Rule over us in indifferent things, is a thing really sinful. And to give you my Judgment about the much desired Alterati<g ref="char:EOLhyphen"/>ons in the Church; take the Words of the ex<g ref="char:EOLhyphen"/>cellent
+<pb n="22" facs="tcp:41633:14"/>Bishop <hi>Bramhal;</hi>
+               <note place="margin">Bish. <hi>Bramh.</hi> to M. <hi>Mili<g ref="char:EOLhyphen"/>tier.</hi>
+               </note>
+               <hi>Needless Alte<g ref="char:EOLhyphen"/>ration does</hi> (saith that great Man) <hi>di<g ref="char:EOLhyphen"/>minish the venerable Esteem of Religion, and lessen the Credit of ancient Truths.</hi> Break Ice in one Place, and it will crack in more. But you seem to be much more concern'd for your Se<g ref="char:EOLhyphen"/>cond Objection, which was, <hi>That by continuing a Member of our Church, you did for ever put your self out of all Capacity to make Choice of your Spi<g ref="char:EOLhyphen"/>ritual Guide;</hi> which you think is a thing contra<g ref="char:EOLhyphen"/>ry to all the Reason in the World. But, Sir, your thinking so, does not determine the matter one way or other; you are not Patron of your own, nor any Parish Church, and it may be, that is the only Reason that you so warmly plead for the popular Election of our Ministers. For every one (as far as I can observe) is for having the Parson a Creature of his own making. But did your Method become once National, I be<g ref="char:EOLhyphen"/>lieve we should have just Cause to dislike it after a Time; we are apt to overvalue Things at a Distance, before we come to a full View of them, and understand their intrinsick Worm by daily and familiar Experience. What Heats and Ani<g ref="char:EOLhyphen"/>mosities, what Disorders and Scandals might this sort of Polling create? The Judicious, Wise, and Virtuous are the Major Part, but in few Parishes; and could you be contented to have your Mini<g ref="char:EOLhyphen"/>ster
+<pb n="23" facs="tcp:41633:14"/>chosen and admitted by the Illiterate, Pro<g ref="char:EOLhyphen"/>fane, and Sottish Part of Man-kind? To say that you are for a Sett of few excellent Electors (your self always presumed to be one of them) is to throw off your own Principle, which insisted on the Duty and Reasonableness of every Man to make Choice of his own Spiritual Physician, if some few, instead of all in the Parish, shall only vote at the Election of Ministers; Tradesmen, Grasiers, and Plowmen, (I mean no manner of Relfection on their natural Endowments) are not competent Judges of Learning, and exact Dis<g ref="char:EOLhyphen"/>courses. St. <hi>Paul,</hi> for some natural Impediment in his Speech, would scarcely ever be promoted to the Divinity-Chair, if he lived now upon Earth, and depended upon the Voices of the unthinking Mob, or conceited Mechanicks. What, will you leave the Church, because the Right of Patronage is not quite alter'd; because Bishops and Gentle<g ref="char:EOLhyphen"/>men will not part with their legal Priviledges and Estates? The Diocesan is a sufficient Judge of the Qualifications of Ministers; and in all Probabili<g ref="char:EOLhyphen"/>ty, you will be better provided with one that can divide the Word of Truth aright, and <hi>give to every one their portion in due season,</hi> from Patrons according to the Law now in force, than can be well expected from any new Models and Schemes recommended to the World by our new Refor<g ref="char:EOLhyphen"/>mers;
+<pb n="24" facs="tcp:41633:15"/>you may call it Conscience, or what you will; but I look upon it as an Argument of a ve<g ref="char:EOLhyphen"/>ry rebellious Temper, to be always finding Fault with Laws and Canons, old and innocent Customs. To be short with you, I think I have sufficiently exposed the Vanity of your Pretences in this, and the foregoing Dialogue, and let me tell you; (whatever you think) to make a Separation from a National Church that is truly Apostolical, and is as free from Error as any Church in the whole World, is no less than <hi>rending and dividing the Body of Christ.</hi> The Sin cannot well be aggra<g ref="char:EOLhyphen"/>vated, as introducing into the World Atheism and Irreligion, Strifes and Envyings, Malice and Bitterness. In short, think upon God's terrible Threats against Divisions and Separations; view the Orders of our Church, without Partiality, and without Prejudice, view her Sacraments, and her Worships, bring them to the Scriptures; and then I question not but it will appear your Interest and Duty, to promote the Unity of our Church as by Law established, against all the good Words, and fair Speeches of those who deceive the Hearts of the Simple.</p>
+            <closer>I am, <salute>Dear SIR,</salute>
+               <lb/>
+               <signed>your Friend to serve you.</signed>
+               <date>June 14.<lb/> 1698.</date>
+            </closer>
+            <pb facs="tcp:41633:15"/>
+         </div>
+      </body>
+   </text>
+</TEI>
